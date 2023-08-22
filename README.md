@@ -1,4 +1,12 @@
 ### Hi! I'm Maddie 📎
+_____________
+
+#### About Me:
+I'm a sophomore pursuing a computer science degree at Harvey Mudd College. I love problem solving and finding creative ways to solve coding problems. I also love to make games.
+
+---
+
+#### Some more about me:
 
 - 🪄 I’m currently working on my Tens! game
 - 🤓 I’m currently learning C++ and HTML/JS/CSS
